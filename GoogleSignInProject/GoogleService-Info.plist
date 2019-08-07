@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>614294623010-j6dkuc5prki771e13ciigq0n9u0n3asu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.614294623010-j6dkuc5prki771e13ciigq0n9u0n3asu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMtwJL_xPg77Tg8DT2ZirU4ypcAKySAmo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>614294623010</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.FirstFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>signinproject-5bad9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signinproject-5bad9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:614294623010:ios:7f8600513a7593f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://signinproject-5bad9.firebaseio.com</string>
+</dict>
+</plist>
